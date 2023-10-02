@@ -1,0 +1,2 @@
+# solpy
+For educational purposes 
